@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+December 3, 2018
 
 ### Student Name:  
-(First and Last Name)
+Anthony Haddad
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Quick lesson on the jQuery library. Teaching of the jQuery framework and understanding.
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://mrdad.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. jQuery is used by programmers to reuse common JavaScript scripts
+2. How to determine what is happeneing through the script using the JavaScript console
+3. Varying jQuery commands
 

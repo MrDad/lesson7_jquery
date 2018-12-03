@@ -1,0 +1,5 @@
+
+
+I used the next() feature to traverse the DOM
+I used the animate feature to create the animation effect for the event
+Within the animate feature I performed a css change by toggling the height
